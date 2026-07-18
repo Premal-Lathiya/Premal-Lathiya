@@ -47,21 +47,6 @@
 
 ---
 
-### 🎓 Education
-
-- 🎓 **Master of Science (IT & CA)** – Saurashtra University
-- 🎓 **Bachelor of Science (Computer Applications)** – Saurashtra University
-
----
-
-### 🌐 Languages
-
-- 🇬🇧 English
-- 🇮🇳 Hindi
-- 🇮🇳 Gujarati
-
----
-
 ### 📫 Let's Connect!
 
 <p align="center">
